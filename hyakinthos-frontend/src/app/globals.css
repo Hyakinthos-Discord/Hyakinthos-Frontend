@@ -25,3 +25,23 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.bg-primary-fore {
+  background-color: #23D5D9
+}
+
+.bg-primary-back{
+  background-color: #1B859B
+}
+
+.bg-secondary-fore{
+  background-color: #0B2955
+}
+
+.bg-secondary-back{
+  background-color: #081f40
+}
+
+.text-secondary {
+  color: #0B2955
+}
