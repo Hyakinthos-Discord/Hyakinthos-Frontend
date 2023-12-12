@@ -2,7 +2,6 @@ import React from "react";
 
 export type ButtonProps = {
     text: string,
-    className: string,
 }
 
 export const PrimaryButton = ({text}: ButtonProps) => <button className="bg-primary-back p-0 rounded-lg outline-offset-1 border-none cursor-pointer">
